@@ -26,16 +26,17 @@
     },
     "extensionPack": [
         "johnpapa.Angular2",
-		"streetsidesoftware.code-spell-checker",
+	"streetsidesoftware.code-spell-checker",
         "streetsidesoftware.code-spell-checker-german",
         "pkief.material-icon-theme",
-		"esbenp.prettier-vscode",
-        "eg2.vscode-npm-script",
+	"esbenp.prettier-vscode",
         "johnpapa.vscode-peacock",
         "generalov.vscode-tfs",
         "ms-azuretools.vscode-docker",
         "angular.ng-template",
         "cyrilletuzi.angular-schematics",
-        "dbaeumer.vscode-eslint"
-    ]
+        "dbaeumer.vscode-eslint",
+        "formulahendry.auto-rename-tag",
+        "albert.tabout",
+        "meganrogge.template-string-converter"]
 }
