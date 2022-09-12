@@ -2,7 +2,7 @@
     "name": "countItExtensionPackDoppler",
     "displayName": "COUNT IT Extension Pack",
     "description": "Everything you need for Angular development",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "JuliaDoppler",
     "author": {
         "name": "Doppler Julia",
